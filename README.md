@@ -11,9 +11,10 @@ and also, some facts about me ☺️
 > My name is Tanvi Mittal and I am from India. I am a ~~first~~ second year student in MEngg program at EECE department. It's been an year in Vancouver and a few things I love about Vancouver are
 1. Cherry Blossoms 😍
 
-<img src="https://cdn.where.ca/wp-content/uploads/2018/03/DestBC-Cherry-Blossoms-2-7236.jpg" height="250" width="350">
+    <img src="https://cdn.where.ca/wp-content/uploads/2018/03/DestBC-Cherry-Blossoms-2-7236.jpg" height="250" width="350">
 
 2. Weather
 
-<img src="https://media.giphy.com/media/3ohzdJlyD2InWwbJle/giphy.gif" height="250" width="350">
+    <img src="https://media.giphy.com/media/3ohzdJlyD2InWwbJle/giphy.gif" height="250" width="350">
 
+3. Beaches and the list goes on
