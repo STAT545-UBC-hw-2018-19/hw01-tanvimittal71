@@ -20,7 +20,7 @@ and also, some facts about me ☺️
 3. Beaches and the list goes on
 
 #### Background
-I have worked as a Network Engineer at Ericsson for four years and then joined UBC for my masters. Here, I am focussing on learning software languages and data mining tools so that I can orient my career towards Data Analysis.
+> I have worked as a Network Engineer at Ericsson for four years and then joined UBC for my masters. Here, I am focussing on learning software languages and data mining tools so that I can orient my career towards Data Analysis.
 
 |Language|Proficiency|
 |:------:|:----------:|
