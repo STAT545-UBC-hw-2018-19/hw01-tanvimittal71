@@ -28,4 +28,4 @@ I have worked as a Network Engineer at Ericsson for four years and then joined U
 |Python|Intermediate|
 |R|Beginner|
 
-
+I am looking forward to dive deep into data exploration in this class. 👍
