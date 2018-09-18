@@ -1,0 +1,43 @@
+---
+title: "Data Exploration"
+output: md_document
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+In this assignment, I am exploring the gapminder data frame 
+used in the class.
+
+### Loading data frame
+
+```{r}
+library(gapminder)
+```
+### Exploring data frame
+
+*str()* and *summary()* commands provide an overview of the data frame
+```{r}
+str(gapminder)
+summary(gapminder)
+```
+Data frames can consists of lists of different data types(as can be seen in output of *str(gapminder)*).
+To extract and explore a single variable from a data frame **$** sign can be used.
+```{r}
+table(gapminder$continent)
+```
+#### Dimensions:
+```{r}
+dim(gapminder)
+ncol(gapminder)
+nrow(gapminder)
+```
+### Data Visualization
+Also, we can plot using R markdown for improved data visualization
+```{r}
+barplot(table(gapminder$continent))
+plot(lifeExp~year,gapminder)
+```
+
